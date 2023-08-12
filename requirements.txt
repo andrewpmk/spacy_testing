@@ -1,0 +1,2 @@
+spacy~=3.6.1
+pyspellchecker~=0.7.2
